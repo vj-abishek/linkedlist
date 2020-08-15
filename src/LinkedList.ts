@@ -106,8 +106,8 @@ class LinkedList {
     private isEmpty(index: number): Boolean{
         return (index > this.size || index < 0)
     }
-    // PrintAll
-    printData():void {
+
+    printData() {
         let current = this.head;
 
         while (current) {

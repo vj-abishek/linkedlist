@@ -86,7 +86,6 @@ var LinkedList = (function () {
     LinkedList.prototype.isEmpty = function (index) {
         return (index > this.size || index < 0);
     };
-    // PrintAll
     LinkedList.prototype.printData = function () {
         var current = this.head;
         while (current) {
