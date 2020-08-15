@@ -8,9 +8,10 @@ A Simple LinkedList in Javascript
 To install dependencies
     
 ###  `npm start`
-run the build Directory
+Run's the build Directory
+
 ### `npm run dev` 
-Compile typescript files to build directory
+Compiles typescript files to build directory
 
 
 ## Methods Avaliable
