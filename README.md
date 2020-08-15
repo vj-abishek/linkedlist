@@ -29,4 +29,4 @@ Compiles typescript files to build directory
 
 ### TODO: 
 
-- [ ] - Convert it to an Array
+- [ ] Convert it to an Array
