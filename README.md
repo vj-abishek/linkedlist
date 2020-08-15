@@ -1,8 +1,7 @@
 # linkedlist
 A Simple LinkedList in Javascript
 
-# Scripts Avaliable
-
+## Scripts Avaliable
 
 ### `npm install`
 To install dependencies
