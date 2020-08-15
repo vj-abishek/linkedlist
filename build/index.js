@@ -1,0 +1,10 @@
+var LinkedList_1 = require('./LinkedList');
+var list = new LinkedList_1["default"]();
+list.insertFirst(300);
+list.insertFirst(200);
+list.insertFirst(100);
+list.insertLast(400);
+// list.insertAt(2,500);
+// list.getAt(3);
+list.removeAt(3);
+list.printData();

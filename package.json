@@ -1,0 +1,26 @@
+{
+  "name": "linkledlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./build",
+    "dev":"npx tsc src/** --outDir build -w --module commonjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vj-abishek/linkedlist.git"
+  },
+  "author": "AbisheK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vj-abishek/linkedlist/issues"
+  },
+  "homepage": "https://github.com/vj-abishek/linkedlist#readme"
+}
