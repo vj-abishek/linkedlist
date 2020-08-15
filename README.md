@@ -9,3 +9,21 @@ npm start -> run the build Directory
 npm run dev -> Compile typescript files to build directory
 
 ```
+
+## Methods Avaliable
+
+| Method | Description |
+| ----------- | ----------- |
+| insertFirst | Inserts element at first |
+| insertLast | Inserts element at last |
+| insertAt | Insert the element at particular index |
+| getAt | Prints the element at particular index |
+| removeAt |  Removes an element at that index |
+| reset | Resets the linked list  to null |
+| printData | Prints the values in the linkedlist |
+| printSize | Prints the size |
+
+
+### TODO: 
+
+- [ ] - Convert it to an Array
